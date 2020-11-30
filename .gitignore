@@ -1,0 +1,46 @@
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.log
+gradle
+out
+gradlew
+gradlew.bat
+out/
+classes/
+logs/
+gradle.properties
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+**/.DS_Store
+*/target
+application-local.yml
+bootstrap.yml
+index.html
+###logback-spring.xml
+logback-spring-local.xml
+*/TestField.java.keep
+*.append
+*.add
+/web/src/main/resources/static/cs-synopsis/
+/web/src/main/resources/application-local.yml
