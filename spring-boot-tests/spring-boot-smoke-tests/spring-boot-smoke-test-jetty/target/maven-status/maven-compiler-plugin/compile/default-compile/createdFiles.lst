@@ -1,0 +1,4 @@
+smoketest/jetty/web/SampleController.class
+smoketest/jetty/ExampleServletContextListener.class
+smoketest/jetty/service/HelloWorldService.class
+smoketest/jetty/SampleJettyApplication.class

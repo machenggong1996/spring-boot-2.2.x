@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-simple/src/main/java/smoketest/simple/ExitException.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-simple/src/main/java/smoketest/simple/SampleConfigurationProperties.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-simple/src/main/java/smoketest/simple/service/HelloWorldService.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-simple/src/main/java/smoketest/simple/SampleSimpleApplication.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-simple/src/test/java/smoketest/simple/SampleSimpleApplicationTests.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-simple/src/test/java/smoketest/simple/SpringTestSampleSimpleApplicationTests.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-simple/src/main/resources/application.properties">
+</file>
+</checkstyle>

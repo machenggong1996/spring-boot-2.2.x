@@ -1,0 +1,14 @@
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-jetty/src/main/java/smoketest/websocket/jetty/client/SimpleGreetingService.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-jetty/src/main/java/smoketest/websocket/jetty/snake/Snake.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-jetty/src/main/java/smoketest/websocket/jetty/snake/SnakeTimer.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-jetty/src/main/java/smoketest/websocket/jetty/echo/EchoService.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-jetty/src/main/java/smoketest/websocket/jetty/reverse/ReverseWebSocketEndpoint.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-jetty/src/main/java/smoketest/websocket/jetty/echo/EchoWebSocketHandler.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-jetty/src/main/java/smoketest/websocket/jetty/client/GreetingService.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-jetty/src/main/java/smoketest/websocket/jetty/SampleJettyWebSocketsApplication.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-jetty/src/main/java/smoketest/websocket/jetty/snake/SnakeWebSocketHandler.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-jetty/src/main/java/smoketest/websocket/jetty/snake/Direction.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-jetty/src/main/java/smoketest/websocket/jetty/echo/DefaultEchoService.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-jetty/src/main/java/smoketest/websocket/jetty/client/SimpleClientWebSocketHandler.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-jetty/src/main/java/smoketest/websocket/jetty/snake/SnakeUtils.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-jetty/src/main/java/smoketest/websocket/jetty/snake/Location.java

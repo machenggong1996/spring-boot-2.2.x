@@ -1,0 +1,16 @@
+smoketest/websocket/jetty/client/GreetingService.class
+smoketest/websocket/jetty/snake/SnakeTimer$1.class
+smoketest/websocket/jetty/snake/Location$1.class
+smoketest/websocket/jetty/echo/EchoService.class
+smoketest/websocket/jetty/echo/DefaultEchoService.class
+smoketest/websocket/jetty/snake/Direction.class
+smoketest/websocket/jetty/client/SimpleGreetingService.class
+smoketest/websocket/jetty/SampleJettyWebSocketsApplication.class
+smoketest/websocket/jetty/client/SimpleClientWebSocketHandler.class
+smoketest/websocket/jetty/snake/SnakeWebSocketHandler.class
+smoketest/websocket/jetty/echo/EchoWebSocketHandler.class
+smoketest/websocket/jetty/snake/SnakeUtils.class
+smoketest/websocket/jetty/snake/Snake.class
+smoketest/websocket/jetty/snake/Location.class
+smoketest/websocket/jetty/snake/SnakeTimer.class
+smoketest/websocket/jetty/reverse/ReverseWebSocketEndpoint.class

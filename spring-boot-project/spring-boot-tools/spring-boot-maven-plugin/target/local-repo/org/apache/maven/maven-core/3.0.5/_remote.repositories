@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 30 18:45:31 CST 2020
+maven-core-3.0.5.jar>local.central=
+maven-core-3.0.5.pom>local.central=

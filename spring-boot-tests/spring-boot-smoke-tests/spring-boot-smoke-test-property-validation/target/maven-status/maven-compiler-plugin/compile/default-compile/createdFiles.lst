@@ -1,0 +1,4 @@
+META-INF/spring-configuration-metadata.json
+smoketest/propertyvalidation/SampleProperties.class
+smoketest/propertyvalidation/SamplePropertiesValidator.class
+smoketest/propertyvalidation/SamplePropertyValidationApplication.class

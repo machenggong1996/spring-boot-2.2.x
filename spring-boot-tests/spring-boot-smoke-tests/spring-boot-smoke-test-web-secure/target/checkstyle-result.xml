@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-web-secure/src/main/java/smoketest/web/secure/SampleWebSecureApplication.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-web-secure/src/test/java/smoketest/web/secure/SampleSecureApplicationTests.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-web-secure/src/main/resources/application.properties">
+</file>
+</checkstyle>

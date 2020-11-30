@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test/src/main/java/smoketest/test/web/UserVehicleService.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test/src/main/java/smoketest/test/web/UserNameNotFoundException.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test/src/main/java/smoketest/test/web/UserVehicleController.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test/src/main/java/smoketest/test/SampleTestApplication.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test/src/main/java/smoketest/test/WelcomeCommandLineRunner.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test/src/main/java/smoketest/test/service/RemoteVehicleDetailsService.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test/src/main/java/smoketest/test/service/VehicleDetails.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test/src/main/java/smoketest/test/service/VehicleIdentificationNumberNotFoundException.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test/src/main/java/smoketest/test/service/VehicleDetailsService.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test/src/main/java/smoketest/test/service/ServiceProperties.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test/src/main/java/smoketest/test/domain/User.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test/src/main/java/smoketest/test/domain/VehicleIdentificationNumber.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test/src/main/java/smoketest/test/domain/UserRepository.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test/src/main/java/smoketest/test/domain/VehicleIdentificationNumberAttributeConverter.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test/src/test/java/smoketest/test/SampleTestApplicationWebIntegrationTests.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test/src/test/java/smoketest/test/web/UserVehicleControllerHtmlUnitTests.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test/src/test/java/smoketest/test/web/UserVehicleControllerApplicationTests.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test/src/test/java/smoketest/test/web/UserVehicleControllerTests.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test/src/test/java/smoketest/test/web/UserVehicleControllerSeleniumTests.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test/src/test/java/smoketest/test/web/UserVehicleServiceTests.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test/src/test/java/smoketest/test/service/RemoteVehicleDetailsServiceTests.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test/src/test/java/smoketest/test/service/VehicleDetailsJsonTests.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test/src/test/java/smoketest/test/domain/UserRepositoryTests.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test/src/test/java/smoketest/test/domain/VehicleIdentificationNumberTests.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test/src/test/java/smoketest/test/domain/UserEntityTests.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test/src/main/resources/application.properties">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test/src/test/resources/application.properties">
+</file>
+</checkstyle>

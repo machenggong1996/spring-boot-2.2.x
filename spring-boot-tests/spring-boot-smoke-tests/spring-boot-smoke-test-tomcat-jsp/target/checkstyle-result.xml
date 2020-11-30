@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-tomcat-jsp/src/main/java/smoketest/tomcat/jsp/MyException.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-tomcat-jsp/src/main/java/smoketest/tomcat/jsp/SampleTomcatJspApplication.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-tomcat-jsp/src/main/java/smoketest/tomcat/jsp/WelcomeController.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-tomcat-jsp/src/main/java/smoketest/tomcat/jsp/MyRestResponse.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-tomcat-jsp/src/test/java/smoketest/tomcat/jsp/SampleWebJspApplicationTests.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-tomcat-jsp/src/main/resources/application.properties">
+</file>
+</checkstyle>

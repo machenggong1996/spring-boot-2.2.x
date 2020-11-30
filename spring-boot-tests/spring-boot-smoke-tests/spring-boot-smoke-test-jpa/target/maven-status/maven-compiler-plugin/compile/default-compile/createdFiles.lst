@@ -1,0 +1,8 @@
+smoketest/jpa/repository/TagRepository.class
+smoketest/jpa/repository/NoteRepository.class
+smoketest/jpa/repository/JpaNoteRepository.class
+smoketest/jpa/web/IndexController.class
+smoketest/jpa/domain/Tag.class
+smoketest/jpa/repository/JpaTagRepository.class
+smoketest/jpa/domain/Note.class
+smoketest/jpa/SampleJpaApplication.class

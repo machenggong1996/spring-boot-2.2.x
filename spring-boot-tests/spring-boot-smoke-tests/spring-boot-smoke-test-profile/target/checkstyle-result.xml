@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-profile/src/main/java/smoketest/profile/service/HelloWorldService.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-profile/src/main/java/smoketest/profile/service/GoodbyeWorldService.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-profile/src/main/java/smoketest/profile/service/MessageService.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-profile/src/main/java/smoketest/profile/service/GenericService.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-profile/src/main/java/smoketest/profile/SampleProfileApplication.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-profile/src/test/java/smoketest/profile/SampleProfileApplicationTests.java">
+</file>
+</checkstyle>

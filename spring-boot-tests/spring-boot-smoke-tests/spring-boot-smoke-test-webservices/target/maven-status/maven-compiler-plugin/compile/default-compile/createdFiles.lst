@@ -1,0 +1,5 @@
+smoketest/webservices/service/StubHumanResourceService.class
+smoketest/webservices/SampleWebServicesApplication.class
+smoketest/webservices/WebServiceConfig.class
+smoketest/webservices/endpoint/HolidayEndpoint.class
+smoketest/webservices/service/HumanResourceService.class

@@ -1,0 +1,4 @@
+smoketest/actuator/customsecurity/ExampleController.class
+smoketest/actuator/customsecurity/SecurityConfiguration.class
+smoketest/actuator/customsecurity/ExampleRestControllerEndpoint.class
+smoketest/actuator/customsecurity/SampleActuatorCustomSecurityApplication.class

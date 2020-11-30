@@ -1,0 +1,5 @@
+smoketest/mustache/WelcomeController$ServiceUnavailableException.class
+smoketest/mustache/WelcomeController.class
+smoketest/mustache/WelcomeController$InsufficientStorageException.class
+smoketest/mustache/SampleWebMustacheApplication.class
+smoketest/mustache/WelcomeController$1.class

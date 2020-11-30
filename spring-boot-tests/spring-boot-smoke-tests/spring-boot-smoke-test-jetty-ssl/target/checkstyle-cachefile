@@ -1,0 +1,8 @@
+#Mon Nov 30 19:01:38 CST 2020
+module-resource*?\:/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-jetty-ssl/../../../src/checkstyle/nohttp-whitelist.txt=82583D1FA93B1A4BC30F5A9634DBD85CC8E22191
+module-resource*?\:file\:/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-jetty-ssl/../../../src/checkstyle/import-control.xml=CBFE1CDFE640F7A868F258C4456E08F60CBE2552
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-jetty-ssl/src/main/java/smoketest/jetty/ssl/web/SampleController.java=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-jetty-ssl/src/test/java/smoketest/jetty/ssl/SampleJettySslApplicationTests.java=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-jetty-ssl/src/main/java/smoketest/jetty/ssl/SampleJettySslApplication.java=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-jetty-ssl/src/main/resources/application.properties=1606253438000
+configuration*?=3A7584C09DCC2645297F2BA3333A228054445E39

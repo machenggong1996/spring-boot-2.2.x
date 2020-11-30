@@ -1,0 +1,11 @@
+#Mon Nov 30 19:09:12 CST 2020
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-webservices/src/main/java/smoketest/webservices/service/StubHumanResourceService.java=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-webservices/src/main/java/smoketest/webservices/SampleWebServicesApplication.java=1606253438000
+module-resource*?\:file\:/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-webservices/../../../src/checkstyle/import-control.xml=CBFE1CDFE640F7A868F258C4456E08F60CBE2552
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-webservices/src/main/java/smoketest/webservices/WebServiceConfig.java=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-webservices/src/main/java/smoketest/webservices/service/HumanResourceService.java=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-webservices/src/test/java/smoketest/webservices/SampleWsApplicationTests.java=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-webservices/src/main/resources/application.properties=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-webservices/src/main/java/smoketest/webservices/endpoint/HolidayEndpoint.java=1606253438000
+configuration*?=2FC2CC134AF0DD1FD0783FB2E7B6FD6DBD4CD66E
+module-resource*?\:/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-webservices/../../../src/checkstyle/nohttp-whitelist.txt=82583D1FA93B1A4BC30F5A9634DBD85CC8E22191

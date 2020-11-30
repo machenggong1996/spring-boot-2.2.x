@@ -1,0 +1,10 @@
+#Mon Nov 30 18:55:24 CST 2020
+module-resource*?\:file\:/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-data-jdbc/../../../src/checkstyle/import-control.xml=CBFE1CDFE640F7A868F258C4456E08F60CBE2552
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-data-jdbc/src/test/java/smoketest/data/jdbc/SampleDataJdbcApplicationTests.java=1606253438000
+module-resource*?\:/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-data-jdbc/../../../src/checkstyle/nohttp-whitelist.txt=82583D1FA93B1A4BC30F5A9634DBD85CC8E22191
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-data-jdbc/src/main/java/smoketest/data/jdbc/SampleDataJdbcApplication.java=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-data-jdbc/src/main/java/smoketest/data/jdbc/CustomerRepository.java=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-data-jdbc/src/main/java/smoketest/data/jdbc/SampleController.java=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-data-jdbc/src/main/java/smoketest/data/jdbc/Customer.java=1606253438000
+configuration*?=624FB4AA6D4F9E611DEE4CE879D262B699633B35
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-data-jdbc/src/test/java/smoketest/data/jdbc/CustomerRepositoryIntegrationTests.java=1606253438000

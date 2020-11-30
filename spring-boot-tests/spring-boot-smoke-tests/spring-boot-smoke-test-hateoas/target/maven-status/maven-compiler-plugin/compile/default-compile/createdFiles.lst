@@ -1,0 +1,5 @@
+smoketest/hateoas/domain/CustomerRepository.class
+smoketest/hateoas/domain/Customer.class
+smoketest/hateoas/SampleHateoasApplication.class
+smoketest/hateoas/domain/InMemoryCustomerRepository.class
+smoketest/hateoas/web/CustomerController.class

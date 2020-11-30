@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.springframework.boot.maven.it</groupId>
+  <artifactId>jar-classifier-source</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1.BUILD-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20201130104344</lastUpdated>
+  </versioning>
+</metadata>

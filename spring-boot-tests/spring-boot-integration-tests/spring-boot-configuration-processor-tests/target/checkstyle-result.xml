@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-integration-tests/spring-boot-configuration-processor-tests/src/main/java/sample/AnnotatedSample.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-integration-tests/spring-boot-configuration-processor-tests/src/main/java/sample/package-info.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-integration-tests/spring-boot-configuration-processor-tests/src/test/java/org/springframework/boot/configurationprocessor/tests/ConfigurationProcessorIntegrationTests.java">
+</file>
+</checkstyle>

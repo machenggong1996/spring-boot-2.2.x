@@ -1,0 +1,16 @@
+smoketest/websocket/undertow/snake/SnakeUtils.class
+smoketest/websocket/undertow/client/GreetingService.class
+smoketest/websocket/undertow/snake/Direction.class
+smoketest/websocket/undertow/echo/EchoWebSocketHandler.class
+smoketest/websocket/undertow/snake/SnakeTimer.class
+smoketest/websocket/undertow/snake/SnakeWebSocketHandler.class
+smoketest/websocket/undertow/snake/Location$1.class
+smoketest/websocket/undertow/echo/DefaultEchoService.class
+smoketest/websocket/undertow/client/SimpleGreetingService.class
+smoketest/websocket/undertow/snake/Location.class
+smoketest/websocket/undertow/client/SimpleClientWebSocketHandler.class
+smoketest/websocket/undertow/echo/EchoService.class
+smoketest/websocket/undertow/snake/SnakeTimer$1.class
+smoketest/websocket/undertow/reverse/ReverseWebSocketEndpoint.class
+smoketest/websocket/undertow/SampleUndertowWebSocketsApplication.class
+smoketest/websocket/undertow/snake/Snake.class

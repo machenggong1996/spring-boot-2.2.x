@@ -1,0 +1,4 @@
+smoketest/tomcat/jsp/SampleTomcatJspApplication.class
+smoketest/tomcat/jsp/WelcomeController.class
+smoketest/tomcat/jsp/MyRestResponse.class
+smoketest/tomcat/jsp/MyException.class

@@ -1,0 +1,7 @@
+smoketest/jersey/SampleJerseyApplicationTests.class
+smoketest/jersey/JerseyDifferentPortSampleActuatorApplicationTests.class
+smoketest/jersey/JerseyManagementPortTests.class
+smoketest/jersey/JerseyManagementPortTests$ResourceConfigConfiguration$1.class
+smoketest/jersey/JerseyManagementPortTests$ResourceConfigConfiguration.class
+smoketest/jersey/JerseyManagementPortTests$ResourceConfigConfiguration$TestEndpoint.class
+smoketest/jersey/JerseyApplicationPathAndManagementPortTests.class

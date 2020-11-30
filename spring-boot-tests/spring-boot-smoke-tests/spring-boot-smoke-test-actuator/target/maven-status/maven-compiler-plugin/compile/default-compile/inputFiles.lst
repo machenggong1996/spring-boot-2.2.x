@@ -1,0 +1,8 @@
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-actuator/src/main/java/smoketest/actuator/SampleLegacyEndpointWithHyphen.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-actuator/src/main/java/smoketest/actuator/HelloWorldService.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-actuator/src/main/java/smoketest/actuator/ExampleInfoContributor.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-actuator/src/main/java/smoketest/actuator/ExampleHealthIndicator.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-actuator/src/main/java/smoketest/actuator/SampleActuatorApplication.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-actuator/src/main/java/smoketest/actuator/SampleLegacyEndpointWithDot.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-actuator/src/main/java/smoketest/actuator/ServiceProperties.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-actuator/src/main/java/smoketest/actuator/SampleController.java

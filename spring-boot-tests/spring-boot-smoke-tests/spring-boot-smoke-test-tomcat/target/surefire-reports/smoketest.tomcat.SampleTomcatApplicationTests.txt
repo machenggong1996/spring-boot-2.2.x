@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: smoketest.tomcat.SampleTomcatApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.966 s - in smoketest.tomcat.SampleTomcatApplicationTests

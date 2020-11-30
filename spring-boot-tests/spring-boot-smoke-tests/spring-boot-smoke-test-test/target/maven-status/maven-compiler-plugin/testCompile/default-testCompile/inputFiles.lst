@@ -1,0 +1,11 @@
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test/src/test/java/smoketest/test/domain/UserEntityTests.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test/src/test/java/smoketest/test/web/UserVehicleServiceTests.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test/src/test/java/smoketest/test/web/UserVehicleControllerHtmlUnitTests.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test/src/test/java/smoketest/test/domain/VehicleIdentificationNumberTests.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test/src/test/java/smoketest/test/web/UserVehicleControllerTests.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test/src/test/java/smoketest/test/domain/UserRepositoryTests.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test/src/test/java/smoketest/test/web/UserVehicleControllerApplicationTests.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test/src/test/java/smoketest/test/web/UserVehicleControllerSeleniumTests.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test/src/test/java/smoketest/test/service/RemoteVehicleDetailsServiceTests.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test/src/test/java/smoketest/test/service/VehicleDetailsJsonTests.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test/src/test/java/smoketest/test/SampleTestApplicationWebIntegrationTests.java

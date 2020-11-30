@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-undertow/src/main/java/smoketest/websocket/undertow/SampleUndertowWebSocketsApplication.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-undertow/src/main/java/smoketest/websocket/undertow/echo/EchoWebSocketHandler.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-undertow/src/main/java/smoketest/websocket/undertow/echo/DefaultEchoService.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-undertow/src/main/java/smoketest/websocket/undertow/echo/EchoService.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-undertow/src/main/java/smoketest/websocket/undertow/reverse/ReverseWebSocketEndpoint.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-undertow/src/main/java/smoketest/websocket/undertow/client/GreetingService.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-undertow/src/main/java/smoketest/websocket/undertow/client/SimpleGreetingService.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-undertow/src/main/java/smoketest/websocket/undertow/client/SimpleClientWebSocketHandler.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-undertow/src/main/java/smoketest/websocket/undertow/snake/SnakeUtils.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-undertow/src/main/java/smoketest/websocket/undertow/snake/Snake.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-undertow/src/main/java/smoketest/websocket/undertow/snake/SnakeWebSocketHandler.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-undertow/src/main/java/smoketest/websocket/undertow/snake/Location.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-undertow/src/main/java/smoketest/websocket/undertow/snake/SnakeTimer.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-undertow/src/main/java/smoketest/websocket/undertow/snake/Direction.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-undertow/src/test/java/smoketest/websocket/undertow/echo/CustomContainerWebSocketsApplicationTests.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-undertow/src/test/java/smoketest/websocket/undertow/SampleWebSocketsApplicationTests.java">
+</file>
+<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-undertow/src/test/java/smoketest/websocket/undertow/snake/SnakeTimerTests.java">
+</file>
+</checkstyle>

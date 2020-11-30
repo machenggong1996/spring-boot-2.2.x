@@ -1,0 +1,3 @@
+smoketest/data/cassandra/CustomerRepository.class
+smoketest/data/cassandra/Customer.class
+smoketest/data/cassandra/SampleCassandraApplication.class

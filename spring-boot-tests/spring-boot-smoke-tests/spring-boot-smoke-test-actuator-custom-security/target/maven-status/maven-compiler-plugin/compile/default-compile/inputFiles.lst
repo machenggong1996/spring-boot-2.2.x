@@ -1,0 +1,4 @@
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-actuator-custom-security/src/main/java/smoketest/actuator/customsecurity/SampleActuatorCustomSecurityApplication.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-actuator-custom-security/src/main/java/smoketest/actuator/customsecurity/SecurityConfiguration.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-actuator-custom-security/src/main/java/smoketest/actuator/customsecurity/ExampleRestControllerEndpoint.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-actuator-custom-security/src/main/java/smoketest/actuator/customsecurity/ExampleController.java

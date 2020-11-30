@@ -1,0 +1,5 @@
+smoketest/jersey/ReverseEndpoint.class
+smoketest/jersey/JerseyConfig.class
+smoketest/jersey/Service.class
+smoketest/jersey/SampleJerseyApplication.class
+smoketest/jersey/Endpoint.class

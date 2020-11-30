@@ -1,0 +1,10 @@
+#Mon Nov 30 19:06:10 CST 2020
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-tomcat-jsp/src/main/resources/application.properties=1606253438000
+module-resource*?\:file\:/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-tomcat-jsp/../../../src/checkstyle/import-control.xml=CBFE1CDFE640F7A868F258C4456E08F60CBE2552
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-tomcat-jsp/src/main/java/smoketest/tomcat/jsp/SampleTomcatJspApplication.java=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-tomcat-jsp/src/main/java/smoketest/tomcat/jsp/MyRestResponse.java=1606253438000
+module-resource*?\:/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-tomcat-jsp/../../../src/checkstyle/nohttp-whitelist.txt=82583D1FA93B1A4BC30F5A9634DBD85CC8E22191
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-tomcat-jsp/src/main/java/smoketest/tomcat/jsp/WelcomeController.java=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-tomcat-jsp/src/main/java/smoketest/tomcat/jsp/MyException.java=1606253438000
+configuration*?=42CDF85515A44EF36440E6FE795C23970E9D82AB
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-tomcat-jsp/src/test/java/smoketest/tomcat/jsp/SampleWebJspApplicationTests.java=1606253438000

@@ -1,0 +1,16 @@
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-project/spring-boot-tools/spring-boot-configuration-metadata/src/main/java/org/springframework/boot/configurationmetadata/ConfigurationMetadataProperty.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-project/spring-boot-tools/spring-boot-configuration-metadata/src/main/java/org/springframework/boot/configurationmetadata/ValueHint.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-project/spring-boot-tools/spring-boot-configuration-metadata/src/main/java/org/springframework/boot/configurationmetadata/ConfigurationMetadataHint.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-project/spring-boot-tools/spring-boot-configuration-metadata/src/main/java/org/springframework/boot/configurationmetadata/Hints.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-project/spring-boot-tools/spring-boot-configuration-metadata/src/main/java/org/springframework/boot/configurationmetadata/SimpleConfigurationMetadataRepository.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-project/spring-boot-tools/spring-boot-configuration-metadata/src/main/java/org/springframework/boot/configurationmetadata/ValueProvider.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-project/spring-boot-tools/spring-boot-configuration-metadata/src/main/java/org/springframework/boot/configurationmetadata/ConfigurationMetadataGroup.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-project/spring-boot-tools/spring-boot-configuration-metadata/src/main/java/org/springframework/boot/configurationmetadata/ConfigurationMetadataSource.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-project/spring-boot-tools/spring-boot-configuration-metadata/src/main/java/org/springframework/boot/configurationmetadata/ConfigurationMetadataRepositoryJsonBuilder.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-project/spring-boot-tools/spring-boot-configuration-metadata/src/main/java/org/springframework/boot/configurationmetadata/ConfigurationMetadataRepository.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-project/spring-boot-tools/spring-boot-configuration-metadata/src/main/java/org/springframework/boot/configurationmetadata/ConfigurationMetadataItem.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-project/spring-boot-tools/spring-boot-configuration-metadata/src/main/java/org/springframework/boot/configurationmetadata/JsonReader.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-project/spring-boot-tools/spring-boot-configuration-metadata/src/main/java/org/springframework/boot/configurationmetadata/RawConfigurationMetadata.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-project/spring-boot-tools/spring-boot-configuration-metadata/src/main/java/org/springframework/boot/configurationmetadata/package-info.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-project/spring-boot-tools/spring-boot-configuration-metadata/src/main/java/org/springframework/boot/configurationmetadata/Deprecation.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-project/spring-boot-tools/spring-boot-configuration-metadata/src/main/java/org/springframework/boot/configurationmetadata/SentenceExtractor.java

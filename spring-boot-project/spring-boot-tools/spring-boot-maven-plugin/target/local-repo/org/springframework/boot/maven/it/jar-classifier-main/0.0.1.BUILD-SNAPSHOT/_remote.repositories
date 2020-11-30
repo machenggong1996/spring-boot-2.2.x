@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 30 18:46:24 CST 2020
+jar-classifier-main-0.0.1.BUILD-SNAPSHOT-test.jar>=
+jar-classifier-main-0.0.1.BUILD-SNAPSHOT.jar>=
+jar-classifier-main-0.0.1.BUILD-SNAPSHOT.pom>=

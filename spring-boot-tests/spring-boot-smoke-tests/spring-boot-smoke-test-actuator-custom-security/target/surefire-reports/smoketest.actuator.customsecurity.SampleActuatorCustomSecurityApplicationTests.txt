@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: smoketest.actuator.customsecurity.SampleActuatorCustomSecurityApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 18, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.314 s - in smoketest.actuator.customsecurity.SampleActuatorCustomSecurityApplicationTests

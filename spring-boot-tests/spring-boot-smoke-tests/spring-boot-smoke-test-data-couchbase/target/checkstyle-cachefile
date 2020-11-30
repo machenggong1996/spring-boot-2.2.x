@@ -1,0 +1,9 @@
+#Mon Nov 30 18:55:16 CST 2020
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-data-couchbase/src/main/java/smoketest/data/couchbase/SampleCouchbaseApplication.java=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-data-couchbase/src/test/java/smoketest/data/couchbase/SampleCouchbaseApplicationTests.java=1606253438000
+module-resource*?\:file\:/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-data-couchbase/../../../src/checkstyle/import-control.xml=CBFE1CDFE640F7A868F258C4456E08F60CBE2552
+module-resource*?\:/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-data-couchbase/../../../src/checkstyle/nohttp-whitelist.txt=82583D1FA93B1A4BC30F5A9634DBD85CC8E22191
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-data-couchbase/src/main/resources/application.properties=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-data-couchbase/src/main/java/smoketest/data/couchbase/User.java=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-data-couchbase/src/main/java/smoketest/data/couchbase/UserRepository.java=1606253438000
+configuration*?=A8805A2531191EB9519C9C11ED9A51AEC1E864D7

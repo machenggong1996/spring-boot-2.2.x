@@ -1,0 +1,4 @@
+smoketest/kafka/Producer.class
+smoketest/kafka/SampleMessage.class
+smoketest/kafka/SampleKafkaApplication.class
+smoketest/kafka/Consumer.class

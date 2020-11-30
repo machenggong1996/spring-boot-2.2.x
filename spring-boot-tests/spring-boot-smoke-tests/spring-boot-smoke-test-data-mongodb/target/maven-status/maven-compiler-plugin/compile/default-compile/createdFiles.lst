@@ -1,0 +1,3 @@
+smoketest/data/mongo/CustomerRepository.class
+smoketest/data/mongo/Customer.class
+smoketest/data/mongo/SampleMongoApplication.class

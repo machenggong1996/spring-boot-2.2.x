@@ -1,0 +1,3 @@
+smoketest/data/elasticsearch/Customer.class
+smoketest/data/elasticsearch/SampleElasticsearchApplication.class
+smoketest/data/elasticsearch/CustomerRepository.class

@@ -1,0 +1,5 @@
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-hateoas/src/main/java/smoketest/hateoas/domain/CustomerRepository.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-hateoas/src/main/java/smoketest/hateoas/web/CustomerController.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-hateoas/src/main/java/smoketest/hateoas/SampleHateoasApplication.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-hateoas/src/main/java/smoketest/hateoas/domain/InMemoryCustomerRepository.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-hateoas/src/main/java/smoketest/hateoas/domain/Customer.java

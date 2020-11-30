@@ -1,0 +1,5 @@
+smoketest/secure/jersey/CustomApplicationPathActuatorTests.class
+smoketest/secure/jersey/JerseySecureApplicationTests.class
+smoketest/secure/jersey/AbstractJerseySecureTests.class
+smoketest/secure/jersey/ManagementPortCustomApplicationPathJerseyTests.class
+smoketest/secure/jersey/ManagementPortAndPathJerseyApplicationTests.class

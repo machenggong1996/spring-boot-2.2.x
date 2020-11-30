@@ -1,0 +1,4 @@
+smoketest/simple/SampleConfigurationProperties.class
+smoketest/simple/SampleSimpleApplication.class
+smoketest/simple/service/HelloWorldService.class
+smoketest/simple/ExitException.class

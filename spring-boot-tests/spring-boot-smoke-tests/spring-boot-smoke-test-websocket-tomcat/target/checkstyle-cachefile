@@ -1,0 +1,21 @@
+#Mon Nov 30 19:08:58 CST 2020
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-tomcat/src/main/java/smoketest/websocket/tomcat/snake/Location.java=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-tomcat/src/main/java/smoketest/websocket/tomcat/client/SimpleClientWebSocketHandler.java=1606253438000
+module-resource*?\:/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-tomcat/../../../src/checkstyle/nohttp-whitelist.txt=82583D1FA93B1A4BC30F5A9634DBD85CC8E22191
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-tomcat/src/main/java/smoketest/websocket/tomcat/echo/DefaultEchoService.java=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-tomcat/src/test/java/smoketest/websocket/tomcat/snake/SnakeTimerTests.java=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-tomcat/src/main/java/smoketest/websocket/tomcat/snake/SnakeWebSocketHandler.java=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-tomcat/src/main/java/smoketest/websocket/tomcat/client/SimpleGreetingService.java=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-tomcat/src/test/java/smoketest/websocket/tomcat/echo/CustomContainerWebSocketsApplicationTests.java=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-tomcat/src/main/java/smoketest/websocket/tomcat/echo/EchoService.java=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-tomcat/src/main/java/smoketest/websocket/tomcat/snake/Direction.java=1606253438000
+module-resource*?\:file\:/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-tomcat/../../../src/checkstyle/import-control.xml=CBFE1CDFE640F7A868F258C4456E08F60CBE2552
+configuration*?=6F93218279A2D26E59F0A46B8DD3962A861CF12C
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-tomcat/src/main/java/smoketest/websocket/tomcat/reverse/ReverseWebSocketEndpoint.java=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-tomcat/src/main/java/smoketest/websocket/tomcat/snake/SnakeUtils.java=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-tomcat/src/main/java/smoketest/websocket/tomcat/echo/EchoWebSocketHandler.java=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-tomcat/src/main/java/smoketest/websocket/tomcat/snake/Snake.java=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-tomcat/src/test/java/smoketest/websocket/tomcat/SampleWebSocketsApplicationTests.java=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-tomcat/src/main/java/smoketest/websocket/tomcat/snake/SnakeTimer.java=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-tomcat/src/main/java/smoketest/websocket/tomcat/client/GreetingService.java=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-tomcat/src/main/java/smoketest/websocket/tomcat/SampleTomcatWebSocketApplication.java=1606253438000

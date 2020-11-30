@@ -1,0 +1,5 @@
+smoketest/security/method/SampleMethodSecurityApplication$HomeController.class
+smoketest/security/method/SampleMethodSecurityApplication$AuthenticationSecurity.class
+smoketest/security/method/SampleMethodSecurityApplication$ApplicationSecurity.class
+smoketest/security/method/SampleMethodSecurityApplication.class
+smoketest/security/method/SampleMethodSecurityApplication$ActuatorSecurity.class

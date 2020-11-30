@@ -1,0 +1,3 @@
+smoketest/data/jpa/service/HotelRepositoryIntegrationTests.class
+smoketest/data/jpa/service/CityRepositoryIntegrationTests.class
+smoketest/data/jpa/SampleDataJpaApplicationTests.class

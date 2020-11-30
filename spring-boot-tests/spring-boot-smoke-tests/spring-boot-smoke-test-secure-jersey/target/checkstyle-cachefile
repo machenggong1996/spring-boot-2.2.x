@@ -1,0 +1,16 @@
+#Mon Nov 30 19:04:24 CST 2020
+module-resource*?\:file\:/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-secure-jersey/../../../src/checkstyle/import-control.xml=CBFE1CDFE640F7A868F258C4456E08F60CBE2552
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-secure-jersey/src/test/java/smoketest/secure/jersey/ManagementPortAndPathJerseyApplicationTests.java=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-secure-jersey/src/test/java/smoketest/secure/jersey/ManagementPortCustomApplicationPathJerseyTests.java=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-secure-jersey/src/main/resources/application.properties=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-secure-jersey/src/test/java/smoketest/secure/jersey/AbstractJerseySecureTests.java=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-secure-jersey/src/test/java/smoketest/secure/jersey/CustomApplicationPathActuatorTests.java=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-secure-jersey/src/test/java/smoketest/secure/jersey/JerseySecureApplicationTests.java=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-secure-jersey/src/main/java/smoketest/secure/jersey/Endpoint.java=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-secure-jersey/src/main/java/smoketest/secure/jersey/JerseyConfig.java=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-secure-jersey/src/main/java/smoketest/secure/jersey/SampleSecureJerseyApplication.java=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-secure-jersey/src/main/java/smoketest/secure/jersey/Service.java=1606253438000
+module-resource*?\:/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-secure-jersey/../../../src/checkstyle/nohttp-whitelist.txt=82583D1FA93B1A4BC30F5A9634DBD85CC8E22191
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-secure-jersey/src/main/java/smoketest/secure/jersey/ReverseEndpoint.java=1606253438000
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-secure-jersey/src/main/java/smoketest/secure/jersey/SecurityConfiguration.java=1606253438000
+configuration*?=343A2D5EE640622A520E9C1E5A575A408A751D20

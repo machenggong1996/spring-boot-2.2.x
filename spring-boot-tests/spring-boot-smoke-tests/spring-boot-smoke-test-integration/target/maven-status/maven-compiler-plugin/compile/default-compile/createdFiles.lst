@@ -1,0 +1,9 @@
+smoketest/integration/SampleIntegrationApplication.class
+smoketest/integration/SampleIntegrationApplication$FixedRatePoller.class
+META-INF/spring-configuration-metadata.json
+smoketest/integration/HelloWorldService.class
+smoketest/integration/SampleApplicationRunner.class
+smoketest/integration/ServiceProperties.class
+smoketest/integration/SampleIntegrationApplication$1.class
+smoketest/integration/SampleMessageGateway.class
+smoketest/integration/SampleEndpoint.class

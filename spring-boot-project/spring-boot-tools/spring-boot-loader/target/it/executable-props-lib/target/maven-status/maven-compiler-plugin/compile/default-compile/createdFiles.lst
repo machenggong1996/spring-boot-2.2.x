@@ -1,0 +1,2 @@
+org/springframework/boot/launcher/it/props/SpringConfiguration.class
+org/springframework/boot/launcher/it/props/EmbeddedJarStarter.class

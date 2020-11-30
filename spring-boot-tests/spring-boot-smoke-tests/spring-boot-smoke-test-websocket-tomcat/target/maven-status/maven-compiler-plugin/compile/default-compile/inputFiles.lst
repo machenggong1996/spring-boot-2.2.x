@@ -1,0 +1,14 @@
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-tomcat/src/main/java/smoketest/websocket/tomcat/snake/Location.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-tomcat/src/main/java/smoketest/websocket/tomcat/client/SimpleGreetingService.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-tomcat/src/main/java/smoketest/websocket/tomcat/SampleTomcatWebSocketApplication.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-tomcat/src/main/java/smoketest/websocket/tomcat/reverse/ReverseWebSocketEndpoint.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-tomcat/src/main/java/smoketest/websocket/tomcat/echo/DefaultEchoService.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-tomcat/src/main/java/smoketest/websocket/tomcat/snake/Direction.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-tomcat/src/main/java/smoketest/websocket/tomcat/snake/Snake.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-tomcat/src/main/java/smoketest/websocket/tomcat/client/SimpleClientWebSocketHandler.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-tomcat/src/main/java/smoketest/websocket/tomcat/echo/EchoService.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-tomcat/src/main/java/smoketest/websocket/tomcat/echo/EchoWebSocketHandler.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-tomcat/src/main/java/smoketest/websocket/tomcat/snake/SnakeWebSocketHandler.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-tomcat/src/main/java/smoketest/websocket/tomcat/snake/SnakeTimer.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-tomcat/src/main/java/smoketest/websocket/tomcat/client/GreetingService.java
+/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-websocket-tomcat/src/main/java/smoketest/websocket/tomcat/snake/SnakeUtils.java

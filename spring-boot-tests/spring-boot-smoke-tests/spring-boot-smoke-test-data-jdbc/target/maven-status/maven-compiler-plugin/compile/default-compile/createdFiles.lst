@@ -1,0 +1,4 @@
+smoketest/data/jdbc/CustomerRepository.class
+smoketest/data/jdbc/Customer.class
+smoketest/data/jdbc/SampleController.class
+smoketest/data/jdbc/SampleDataJdbcApplication.class

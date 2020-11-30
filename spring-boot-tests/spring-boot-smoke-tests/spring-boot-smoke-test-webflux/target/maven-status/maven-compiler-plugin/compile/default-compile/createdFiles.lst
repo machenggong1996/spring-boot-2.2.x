@@ -1,0 +1,4 @@
+smoketest/webflux/WelcomeController.class
+smoketest/webflux/ExampleController.class
+smoketest/webflux/SampleWebFluxApplication.class
+smoketest/webflux/EchoHandler.class

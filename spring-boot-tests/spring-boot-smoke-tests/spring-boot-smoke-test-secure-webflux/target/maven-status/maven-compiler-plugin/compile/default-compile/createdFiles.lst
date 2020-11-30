@@ -1,0 +1,3 @@
+smoketest/secure/webflux/SampleSecureWebFluxApplication.class
+smoketest/secure/webflux/WelcomeController.class
+smoketest/secure/webflux/EchoHandler.class

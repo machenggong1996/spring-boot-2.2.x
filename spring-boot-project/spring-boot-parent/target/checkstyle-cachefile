@@ -1,0 +1,4 @@
+#Mon Nov 30 18:34:32 CST 2020
+module-resource*?\:/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-project/spring-boot-parent/../../src/checkstyle/nohttp-whitelist.txt=82583D1FA93B1A4BC30F5A9634DBD85CC8E22191
+module-resource*?\:file\:/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-project/spring-boot-parent/../../src/checkstyle/import-control.xml=CBFE1CDFE640F7A868F258C4456E08F60CBE2552
+configuration*?=E8519A83956A55812540F3FA16EC3B1346A33390

@@ -1,0 +1,6 @@
+smoketest/websocket/jetty/echo/CustomContainerWebSocketsApplicationTests$ClientConfiguration.class
+smoketest/websocket/jetty/snake/SnakeTimerTests.class
+smoketest/websocket/jetty/SampleWebSocketsApplicationTests$ClientConfiguration.class
+smoketest/websocket/jetty/echo/CustomContainerWebSocketsApplicationTests$CustomContainerConfiguration.class
+smoketest/websocket/jetty/SampleWebSocketsApplicationTests.class
+smoketest/websocket/jetty/echo/CustomContainerWebSocketsApplicationTests.class

@@ -1,0 +1,6 @@
+smoketest/data/rest/service/CityRepository.class
+smoketest/data/rest/domain/City.class
+smoketest/data/rest/SampleDataRestApplication.class
+smoketest/data/rest/service/CitySearchCriteria.class
+smoketest/data/rest/service/HotelRepository.class
+smoketest/data/rest/domain/Hotel.class
