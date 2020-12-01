@@ -423,7 +423,7 @@ public class SpringApplication {
         // 加载所有资源，指的是启动器指定的参数
         Set<Object> sources = getAllSources();
         Assert.notEmpty(sources, "Sources must not be empty");
-        //将bean加载到上下文中
+        //将beanDefinitaion加载到上下文中
         load(context, sources.toArray(new Object[0]));
         //触发所有spring applicationRunListener监听器的contextLoaded事件方法
         listeners.contextLoaded(context);
@@ -480,15 +480,27 @@ public class SpringApplication {
         return instances;
     }
 
+    /**
+     * 实例化
+     * @param type
+     * @param parameterTypes
+     * @param classLoader
+     * @param args
+     * @param names
+     * @param <T>
+     * @return
+     */
     @SuppressWarnings("unchecked")
     private <T> List<T> createSpringFactoriesInstances(Class<T> type, Class<?>[] parameterTypes,
                                                        ClassLoader classLoader, Object[] args, Set<String> names) {
         List<T> instances = new ArrayList<>(names.size());
         for (String name : names) {
             try {
+                //装载class文件到内存
                 Class<?> instanceClass = ClassUtils.forName(name, classLoader);
                 Assert.isAssignable(type, instanceClass);
                 Constructor<?> constructor = instanceClass.getDeclaredConstructor(parameterTypes);
+                //主要通过反射创建实例
                 T instance = (T) BeanUtils.instantiateClass(constructor, args);
                 instances.add(instance);
             } catch (Throwable ex) {

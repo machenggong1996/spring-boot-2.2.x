@@ -1,17 +1,25 @@
 # PropertySource Loaders
+# PropertySource Loaders 属性文件加载器
+# properties文件加载器
+# yaml文件加载器
 org.springframework.boot.env.PropertySourceLoader=\
 org.springframework.boot.env.PropertiesPropertySourceLoader,\
 org.springframework.boot.env.YamlPropertySourceLoader
 
-# Run Listeners
+# Run Listeners 运行时的监听器
+# 程序运行过程中所有监听通知都是通过此类来进行回调
 org.springframework.boot.SpringApplicationRunListener=\
 org.springframework.boot.context.event.EventPublishingRunListener
 
-# Error Reporters
+# Error Reporters 错误报告器
 org.springframework.boot.SpringBootExceptionReporter=\
 org.springframework.boot.diagnostics.FailureAnalyzers
 
 # Application Context Initializers
+# 报告spring容器的一些常见的错误配置
+# 设置spring应用上下文的ID
+# 使用环境属性context.initializer.classes指定初始化器进行初始化规则
+# 将内置servlet容器实际使用的监听端口写入到environment环境属性中
 org.springframework.context.ApplicationContextInitializer=\
 org.springframework.boot.context.ConfigurationWarningsApplicationContextInitializer,\
 org.springframework.boot.context.ContextIdApplicationContextInitializer,\
