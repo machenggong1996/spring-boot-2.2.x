@@ -65,6 +65,9 @@ public class EventPublishingRunListener implements SpringApplicationRunListener,
 		return 0;
 	}
 
+	/**
+	 * 此处的监听器可以看出是事件发布监听器，主要用来发布启动事件
+	 */
 	@Override
 	public void starting() {
 		this.initialMulticaster.multicastEvent(new ApplicationStartingEvent(this.application, this.args));
