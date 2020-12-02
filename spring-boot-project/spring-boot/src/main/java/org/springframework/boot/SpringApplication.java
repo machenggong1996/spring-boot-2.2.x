@@ -549,12 +549,15 @@ public class SpringApplication {
             environment.setConversionService((ConfigurableConversionService) conversionService);
         }
         //配置property sources
+        //加载启动命令行配置属性
         configurePropertySources(environment, args);
         //配置profiles
         configureProfiles(environment, args);
     }
 
     /**
+     * 这里接收的参数是ConfigurableEnvironment,也就是StandardServletEnvironment的父类。
+     * 继续跟进configurePropertySources方法
      * Add, remove or re-order any {@link PropertySource}s in this application's
      * environment.
      *
@@ -563,10 +566,13 @@ public class SpringApplication {
      * @see #configureEnvironment(ConfigurableEnvironment, String[])
      */
     protected void configurePropertySources(ConfigurableEnvironment environment, String[] args) {
+        //获取配置存储集合
         MutablePropertySources sources = environment.getPropertySources();
+        //判断是否有默认配置，默认为空
         if (this.defaultProperties != null && !this.defaultProperties.isEmpty()) {
             sources.addLast(new MapPropertySource("defaultProperties", this.defaultProperties));
         }
+        //加载命令行配置
         if (this.addCommandLineProperties && args.length > 0) {
             String name = CommandLinePropertySource.COMMAND_LINE_PROPERTY_SOURCE_NAME;
             if (sources.contains(name)) {

@@ -16,15 +16,14 @@
 
 package org.springframework.boot;
 
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.List;
-
 import org.apache.commons.logging.Log;
-
 import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.core.env.ConfigurableEnvironment;
 import org.springframework.util.ReflectionUtils;
+
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.List;
 
 /**
  * A collection of {@link SpringApplicationRunListener}.
@@ -33,78 +32,95 @@ import org.springframework.util.ReflectionUtils;
  */
 class SpringApplicationRunListeners {
 
-	private final Log log;
+    private final Log log;
 
-	private final List<SpringApplicationRunListener> listeners;
+    /**
+     * 启动类监听器
+     */
+    private final List<SpringApplicationRunListener> listeners;
 
-	SpringApplicationRunListeners(Log log, Collection<? extends SpringApplicationRunListener> listeners) {
-		this.log = log;
-		this.listeners = new ArrayList<>(listeners);
-	}
+    SpringApplicationRunListeners(Log log, Collection<? extends SpringApplicationRunListener> listeners) {
+        this.log = log;
+        this.listeners = new ArrayList<>(listeners);
+    }
 
-	/**
-	 * 循环遍历获取监听器
-	 */
-	void starting() {
-		for (SpringApplicationRunListener listener : this.listeners) {
-			listener.starting();
-		}
-	}
+    /**
+     * 循环遍历获取监听器
+     * 启动上下文事件监听
+     */
+    void starting() {
+        for (SpringApplicationRunListener listener : this.listeners) {
+            listener.starting();
+        }
+    }
 
-	void environmentPrepared(ConfigurableEnvironment environment) {
-		for (SpringApplicationRunListener listener : this.listeners) {
-			listener.environmentPrepared(environment);
-		}
-	}
+    /**
+     * environment准备完毕事件监听
+     *
+     * @param environment 环境
+     */
+    void environmentPrepared(ConfigurableEnvironment environment) {
+        for (SpringApplicationRunListener listener : this.listeners) {
+            listener.environmentPrepared(environment);
+        }
+    }
 
-	void contextPrepared(ConfigurableApplicationContext context) {
-		for (SpringApplicationRunListener listener : this.listeners) {
-			listener.contextPrepared(context);
-		}
-	}
+    /**
+     * spring上下文准备完毕事件监听
+     *
+     * @param context spring上下文
+     */
+    void contextPrepared(ConfigurableApplicationContext context) {
+        for (SpringApplicationRunListener listener : this.listeners) {
+            listener.contextPrepared(context);
+        }
+    }
 
-	void contextLoaded(ConfigurableApplicationContext context) {
-		for (SpringApplicationRunListener listener : this.listeners) {
-			listener.contextLoaded(context);
-		}
-	}
+    /**
+     * 上下文配置类加载事件监听
+     *
+     * @param context spring上下文
+     */
+    void contextLoaded(ConfigurableApplicationContext context) {
+        for (SpringApplicationRunListener listener : this.listeners) {
+            listener.contextLoaded(context);
+        }
+    }
 
-	void started(ConfigurableApplicationContext context) {
-		for (SpringApplicationRunListener listener : this.listeners) {
-			listener.started(context);
-		}
-	}
+    void started(ConfigurableApplicationContext context) {
+        for (SpringApplicationRunListener listener : this.listeners) {
+            listener.started(context);
+        }
+    }
 
-	void running(ConfigurableApplicationContext context) {
-		for (SpringApplicationRunListener listener : this.listeners) {
-			listener.running(context);
-		}
-	}
+    void running(ConfigurableApplicationContext context) {
+        for (SpringApplicationRunListener listener : this.listeners) {
+            listener.running(context);
+        }
+    }
 
-	void failed(ConfigurableApplicationContext context, Throwable exception) {
-		for (SpringApplicationRunListener listener : this.listeners) {
-			callFailedListener(listener, context, exception);
-		}
-	}
+    void failed(ConfigurableApplicationContext context, Throwable exception) {
+        for (SpringApplicationRunListener listener : this.listeners) {
+            callFailedListener(listener, context, exception);
+        }
+    }
 
-	private void callFailedListener(SpringApplicationRunListener listener, ConfigurableApplicationContext context,
-			Throwable exception) {
-		try {
-			listener.failed(context, exception);
-		}
-		catch (Throwable ex) {
-			if (exception == null) {
-				ReflectionUtils.rethrowRuntimeException(ex);
-			}
-			if (this.log.isDebugEnabled()) {
-				this.log.error("Error handling failed", ex);
-			}
-			else {
-				String message = ex.getMessage();
-				message = (message != null) ? message : "no error message";
-				this.log.warn("Error handling failed (" + message + ")");
-			}
-		}
-	}
+    private void callFailedListener(SpringApplicationRunListener listener, ConfigurableApplicationContext context,
+                                    Throwable exception) {
+        try {
+            listener.failed(context, exception);
+        } catch (Throwable ex) {
+            if (exception == null) {
+                ReflectionUtils.rethrowRuntimeException(ex);
+            }
+            if (this.log.isDebugEnabled()) {
+                this.log.error("Error handling failed", ex);
+            } else {
+                String message = ex.getMessage();
+                message = (message != null) ? message : "no error message";
+                this.log.warn("Error handling failed (" + message + ")");
+            }
+        }
+    }
 
 }
