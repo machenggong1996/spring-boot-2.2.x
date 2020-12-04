@@ -146,6 +146,9 @@ public class ServletWebServerApplicationContext extends GenericWebApplicationCon
 		}
 	}
 
+	/**
+	 * onRefresh 是 refresh()中的一个方法
+	 */
 	@Override
 	protected void onRefresh() {
 		super.onRefresh();

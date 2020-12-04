@@ -84,6 +84,11 @@ public abstract class SpringBootServletInitializer implements WebApplicationInit
 		this.registerErrorPageFilter = registerErrorPageFilter;
 	}
 
+	/**
+	 * 通过启动servlet来启动spring容器
+	 * @param servletContext
+	 * @throws ServletException
+	 */
 	@Override
 	public void onStartup(ServletContext servletContext) throws ServletException {
 		// Logger initialization is deferred in case an ordered
