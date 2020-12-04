@@ -67,6 +67,7 @@ public enum WebApplicationType {
 			return WebApplicationType.REACTIVE;
 		}
 		for (String className : SERVLET_INDICATOR_CLASSES) {
+			//判断存不存在和servlet相关的class 不存在则不是servlet类型
 			if (!ClassUtils.isPresent(className, null)) {
 				return WebApplicationType.NONE;
 			}

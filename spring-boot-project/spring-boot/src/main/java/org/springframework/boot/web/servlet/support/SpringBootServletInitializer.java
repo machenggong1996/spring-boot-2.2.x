@@ -16,17 +16,8 @@
 
 package org.springframework.boot.web.servlet.support;
 
-import java.util.Collections;
-
-import javax.servlet.Filter;
-import javax.servlet.Servlet;
-import javax.servlet.ServletContext;
-import javax.servlet.ServletContextEvent;
-import javax.servlet.ServletException;
-
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
-
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.builder.ParentContextApplicationContextInitializer;
 import org.springframework.boot.builder.SpringApplicationBuilder;
@@ -45,6 +36,13 @@ import org.springframework.web.WebApplicationInitializer;
 import org.springframework.web.context.ConfigurableWebEnvironment;
 import org.springframework.web.context.ContextLoaderListener;
 import org.springframework.web.context.WebApplicationContext;
+
+import javax.servlet.Filter;
+import javax.servlet.Servlet;
+import javax.servlet.ServletContext;
+import javax.servlet.ServletContextEvent;
+import javax.servlet.ServletException;
+import java.util.Collections;
 
 /**
  * An opinionated {@link WebApplicationInitializer} to run a {@link SpringApplication}
@@ -110,18 +108,26 @@ public abstract class SpringBootServletInitializer implements WebApplicationInit
 	}
 
 	protected WebApplicationContext createRootApplicationContext(ServletContext servletContext) {
+		//创建SpringApplicationBuilder --这一步很关键
 		SpringApplicationBuilder builder = createSpringApplicationBuilder();
+		//设置应用主启动类--本文这里为com.web.ServletInitializer
 		builder.main(getClass());
+		//从servletContext中获取servletContext.getAttribute(WebApplicationContext.ROOT_WEB_APPLICATION_CONTEXT_ATTRIBUTE)作为parent。第一次获取肯定为null
 		ApplicationContext parent = getExistingRootWebApplicationContext(servletContext);
 		if (parent != null) {
 			this.logger.info("Root context already created (using as parent).");
+			//以将ROOT_WEB_APPLICATION_CONTEXT_ATTRIBUTE重置为null
 			servletContext.setAttribute(WebApplicationContext.ROOT_WEB_APPLICATION_CONTEXT_ATTRIBUTE, null);
+			//注册一个新的ParentContextApplicationContextInitializer--包含parent
 			builder.initializers(new ParentContextApplicationContextInitializer(parent));
 		}
 		builder.initializers(new ServletContextApplicationContextInitializer(servletContext));
+		//设置applicationContextClass为AnnotationConfigServletWebServerApplicationContext
 		builder.contextClass(AnnotationConfigServletWebServerApplicationContext.class);
 		builder = configure(builder);
+		//添加监听器
 		builder.listeners(new WebEnvironmentPropertySourceInitializer(servletContext));
+		//返回一个准备好的SpringApplication ，准备run-很关键
 		SpringApplication application = builder.build();
 		if (application.getAllSources().isEmpty()
 				&& MergedAnnotations.from(getClass(), SearchStrategy.TYPE_HIERARCHY).isPresent(Configuration.class)) {
@@ -134,6 +140,7 @@ public abstract class SpringBootServletInitializer implements WebApplicationInit
 		if (this.registerErrorPageFilter) {
 			application.addPrimarySources(Collections.singleton(ErrorPageFilterConfiguration.class));
 		}
+		//启动应用
 		return run(application);
 	}
 
