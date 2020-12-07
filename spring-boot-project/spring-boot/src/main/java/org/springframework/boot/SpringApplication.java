@@ -255,7 +255,7 @@ public class SpringApplication {
         Assert.notNull(primarySources, "PrimarySources must not be null");
         //初始化主要加载资源类集合并去重
         this.primarySources = new LinkedHashSet<>(Arrays.asList(primarySources));
-        //推断当前 WEB 应用类型，一共有三种：NONE,SERVLET,REACTIVE
+        //推断当前 WEB 应用类型，一共有三种：NONE,SERVLET,REACTIVE deduce推断
         this.webApplicationType = WebApplicationType.deduceFromClasspath();
         //设置应用上线文初始化器,从"META-INF/spring.factories"读取ApplicationContextInitializer类的实例名称集合并去重，并进行set去重。（一共7个）
         setInitializers((Collection) getSpringFactoriesInstances(ApplicationContextInitializer.class));

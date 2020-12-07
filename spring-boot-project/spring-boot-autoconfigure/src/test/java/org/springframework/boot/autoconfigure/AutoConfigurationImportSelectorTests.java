@@ -70,6 +70,7 @@ class AutoConfigurationImportSelectorTests {
 
 	@Test
 	void importsAreSelectedWhenUsingEnableAutoConfiguration() {
+
 		String[] imports = selectImports(BasicEnableAutoConfiguration.class);
 		assertThat(imports).hasSameSizeAs(
 				SpringFactoriesLoader.loadFactoryNames(EnableAutoConfiguration.class, getClass().getClassLoader()));

@@ -98,6 +98,7 @@ public class AutoConfigurationImportSelector implements DeferredImportSelector, 
 		if (!isEnabled(annotationMetadata)) {
 			return NO_IMPORTS;
 		}
+		// 从配置文件中加载 AutoConfigurationMetadata
 		AutoConfigurationMetadata autoConfigurationMetadata = AutoConfigurationMetadataLoader
 				.loadMetadata(this.beanClassLoader);
 		AutoConfigurationEntry autoConfigurationEntry = getAutoConfigurationEntry(autoConfigurationMetadata,
@@ -118,11 +119,25 @@ public class AutoConfigurationImportSelector implements DeferredImportSelector, 
 			return EMPTY_ENTRY;
 		}
 		AnnotationAttributes attributes = getAttributes(annotationMetadata);
+		// 获取所有候选配置类EnableAutoConfiguration
+		// 使用了内部工具使用SpringFactoriesLoader，查找classpath上所有jar包中的
+		// META-INF\spring.factories，找出其中key为
+		// org.springframework.boot.autoconfigure.EnableAutoConfiguration
+		// 的属性定义的工厂类名称。
+		// 虽然参数有annotationMetadata,attributes,但在 AutoConfigurationImportSelector 的
+		// 实现 getCandidateConfigurations()中，这两个参数并未使用
 		List<String> configurations = getCandidateConfigurations(annotationMetadata, attributes);
+		// 去重
 		configurations = removeDuplicates(configurations);
+		// 应用 exclusion 属性
 		Set<String> exclusions = getExclusions(annotationMetadata, attributes);
 		checkExcludedClasses(configurations, exclusions);
 		configurations.removeAll(exclusions);
+		// 应用过滤器AutoConfigurationImportFilter，
+		// 对于 spring boot autoconfigure，定义了一个需要被应用的过滤器 ：
+		// org.springframework.boot.autoconfigure.condition.OnClassCondition，
+		// 此过滤器检查候选配置类上的注解@ConditionalOnClass，如果要求的类在classpath
+		// 中不存在，则这个候选配置类会被排除掉
 		configurations = filter(configurations, autoConfigurationMetadata);
 		fireAutoConfigurationImportEvents(configurations, exclusions);
 		return new AutoConfigurationEntry(configurations, exclusions);
@@ -241,16 +256,26 @@ public class AutoConfigurationImportSelector implements DeferredImportSelector, 
 		return (excludes != null) ? Arrays.asList(excludes) : Collections.emptyList();
 	}
 
+	/**
+	 * 根据autoConfigurationMetadata信息对候选配置类configurations进行过滤
+	 **/
 	private List<String> filter(List<String> configurations, AutoConfigurationMetadata autoConfigurationMetadata) {
 		long startTime = System.nanoTime();
 		String[] candidates = StringUtils.toStringArray(configurations);
+		// 记录候选配置类是否需要被排除,skip为true表示需要被排除,全部初始化为false,不需要被排除
 		boolean[] skip = new boolean[candidates.length];
+		// 记录候选配置类中是否有任何一个候选配置类被忽略，初始化为false
 		boolean skipped = false;
+		// 获取AutoConfigurationImportFilter并逐个应用过滤
 		for (AutoConfigurationImportFilter filter : getAutoConfigurationImportFilters()) {
+			// 对过滤器注入其需要Aware的信息
 			invokeAwareMethods(filter);
+			// 使用此过滤器检查候选配置类跟autoConfigurationMetadata的匹配情况
 			boolean[] match = filter.match(candidates, autoConfigurationMetadata);
 			for (int i = 0; i < match.length; i++) {
 				if (!match[i]) {
+					// 如果有某个候选配置类不符合当前过滤器，将其标记为需要被排除，
+					// 并且将 skipped设置为true，表示发现了某个候选配置类需要被排除
 					skip[i] = true;
 					candidates[i] = null;
 					skipped = true;
@@ -258,8 +283,12 @@ public class AutoConfigurationImportSelector implements DeferredImportSelector, 
 			}
 		}
 		if (!skipped) {
+			// 如果所有的候选配置类都不需要被排除，则直接返回外部参数提供的候选配置类集合
 			return configurations;
 		}
+		// 逻辑走到这里因为skipped为true，表明上面的的过滤器应用逻辑中发现了某些候选配置类
+		// 需要被排除，这里排除那些需要被排除的候选配置类，将那些不需要被排除的候选配置类组成
+		// 一个新的集合返回给调用者
 		List<String> result = new ArrayList<>(candidates.length);
 		for (int i = 0; i < candidates.length; i++) {
 			if (!skip[i]) {
@@ -274,6 +303,16 @@ public class AutoConfigurationImportSelector implements DeferredImportSelector, 
 		return new ArrayList<>(result);
 	}
 
+	/**
+	 * 使用内部工具 SpringFactoriesLoader，查找classpath上所有jar包中的
+	 * META-INF\spring.factories，找出其中key为
+	 * org.springframework.boot.autoconfigure.AutoConfigurationImportFilter
+	 * 的属性定义的过滤器类并实例化。
+	 * AutoConfigurationImportFilter过滤器可以被注册到 spring.factories用于对自动配置类
+	 * 做一些限制，在这些自动配置类的字节码被读取之前做快速排除处理。
+	 * spring boot autoconfigure 缺省注册了一个 AutoConfigurationImportFilter :
+	 * org.springframework.boot.autoconfigure.condition.OnClassCondition
+	 **/
 	protected List<AutoConfigurationImportFilter> getAutoConfigurationImportFilters() {
 		return SpringFactoriesLoader.loadFactories(AutoConfigurationImportFilter.class, this.beanClassLoader);
 	}
