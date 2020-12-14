@@ -1,7 +1,0 @@
-#Mon Nov 30 19:09:28 CST 2020
-module-resource*?\:file\:/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-integration-tests/spring-boot-configuration-processor-tests/../../../src/checkstyle/import-control.xml=CBFE1CDFE640F7A868F258C4456E08F60CBE2552
-/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-integration-tests/spring-boot-configuration-processor-tests/src/test/java/org/springframework/boot/configurationprocessor/tests/ConfigurationProcessorIntegrationTests.java=1606253438000
-/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-integration-tests/spring-boot-configuration-processor-tests/src/main/java/sample/package-info.java=1606253438000
-/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-integration-tests/spring-boot-configuration-processor-tests/src/main/java/sample/AnnotatedSample.java=1606253438000
-module-resource*?\:/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-integration-tests/spring-boot-configuration-processor-tests/../../../src/checkstyle/nohttp-whitelist.txt=82583D1FA93B1A4BC30F5A9634DBD85CC8E22191
-configuration*?=3D4FEEDFABC4B83CD1D272C8DEF4BAFC3B131457

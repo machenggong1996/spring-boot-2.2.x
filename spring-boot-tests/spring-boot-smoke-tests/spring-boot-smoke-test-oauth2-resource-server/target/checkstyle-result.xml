@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<checkstyle version="8.29">
-<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-oauth2-resource-server/src/main/java/smoketest/oauth2/resource/ExampleController.java">
-</file>
-<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-oauth2-resource-server/src/main/java/smoketest/oauth2/resource/SampleOauth2ResourceServerApplication.java">
-</file>
-<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-oauth2-resource-server/src/test/java/smoketest/oauth2/resource/SampleOauth2ResourceServerApplicationTests.java">
-</file>
-</checkstyle>

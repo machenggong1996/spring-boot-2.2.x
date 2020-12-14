@@ -1,6 +1,0 @@
-smoketest/secure/jersey/ReverseEndpoint.class
-smoketest/secure/jersey/SecurityConfiguration.class
-smoketest/secure/jersey/Endpoint.class
-smoketest/secure/jersey/Service.class
-smoketest/secure/jersey/JerseyConfig.class
-smoketest/secure/jersey/SampleSecureJerseyApplication.class

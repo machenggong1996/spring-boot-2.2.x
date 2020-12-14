@@ -1,7 +1,0 @@
-#Mon Nov 30 19:04:12 CST 2020
-/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-saml2-service-provider/src/test/java/smoketest/saml2/serviceprovider/SampleSaml2RelyingPartyApplicationTests.java=1606253438000
-/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-saml2-service-provider/src/main/java/smoketest/saml2/serviceprovider/SampleSaml2RelyingPartyApplication.java=1606253438000
-module-resource*?\:/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-saml2-service-provider/../../../src/checkstyle/nohttp-whitelist.txt=82583D1FA93B1A4BC30F5A9634DBD85CC8E22191
-/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-saml2-service-provider/src/main/java/smoketest/saml2/serviceprovider/ExampleController.java=1606253438000
-module-resource*?\:file\:/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-saml2-service-provider/../../../src/checkstyle/import-control.xml=CBFE1CDFE640F7A868F258C4456E08F60CBE2552
-configuration*?=CDE8E01D7146C6C37F585F5FAAABEF86D31B1BD

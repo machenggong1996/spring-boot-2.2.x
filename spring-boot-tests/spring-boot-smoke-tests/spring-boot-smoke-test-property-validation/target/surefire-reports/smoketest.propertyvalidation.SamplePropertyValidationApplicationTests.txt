@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: smoketest.propertyvalidation.SamplePropertyValidationApplicationTests
--------------------------------------------------------------------------------
-Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.335 s - in smoketest.propertyvalidation.SamplePropertyValidationApplicationTests

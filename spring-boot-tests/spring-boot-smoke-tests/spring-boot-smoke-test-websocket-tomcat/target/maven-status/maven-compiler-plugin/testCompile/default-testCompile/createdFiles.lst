@@ -1,6 +1,0 @@
-smoketest/websocket/tomcat/echo/CustomContainerWebSocketsApplicationTests$CustomContainerConfiguration.class
-smoketest/websocket/tomcat/snake/SnakeTimerTests.class
-smoketest/websocket/tomcat/echo/CustomContainerWebSocketsApplicationTests$ClientConfiguration.class
-smoketest/websocket/tomcat/echo/CustomContainerWebSocketsApplicationTests.class
-smoketest/websocket/tomcat/SampleWebSocketsApplicationTests.class
-smoketest/websocket/tomcat/SampleWebSocketsApplicationTests$ClientConfiguration.class

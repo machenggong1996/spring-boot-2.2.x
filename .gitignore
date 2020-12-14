@@ -33,7 +33,7 @@ nbdist/
 #.nb-gradle/
 
 **/.DS_Store
-*/target
+**/target
 application-local.yml
 bootstrap.yml
 index.html
@@ -44,3 +44,4 @@ logback-spring-local.xml
 *.add
 /web/src/main/resources/static/cs-synopsis/
 /web/src/main/resources/application-local.yml
+target

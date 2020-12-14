@@ -1,9 +1,0 @@
-#Mon Nov 30 18:54:23 CST 2020
-/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-aop/src/main/java/smoketest/aop/service/HelloWorldService.java=1606253438000
-/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-aop/src/test/java/smoketest/aop/SampleAopApplicationTests.java=1606253438000
-/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-aop/src/main/java/smoketest/aop/SampleAopApplication.java=1606253438000
-module-resource*?\:/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-aop/../../../src/checkstyle/nohttp-whitelist.txt=82583D1FA93B1A4BC30F5A9634DBD85CC8E22191
-module-resource*?\:file\:/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-aop/../../../src/checkstyle/import-control.xml=CBFE1CDFE640F7A868F258C4456E08F60CBE2552
-/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-aop/src/main/resources/application.properties=1606253438000
-/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-aop/src/main/java/smoketest/aop/monitor/ServiceMonitor.java=1606253438000
-configuration*?=A330336A5B5B1D12E2908043E34838722E2236A

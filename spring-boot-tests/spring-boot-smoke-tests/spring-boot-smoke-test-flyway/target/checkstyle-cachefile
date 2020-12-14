@@ -1,9 +1,0 @@
-#Mon Nov 30 19:00:43 CST 2020
-module-resource*?\:file\:/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-flyway/../../../src/checkstyle/import-control.xml=CBFE1CDFE640F7A868F258C4456E08F60CBE2552
-module-resource*?\:/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-flyway/../../../src/checkstyle/nohttp-whitelist.txt=82583D1FA93B1A4BC30F5A9634DBD85CC8E22191
-/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-flyway/src/main/resources/application.properties=1606253438000
-/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-flyway/src/test/java/smoketest/flyway/SampleFlywayApplicationTests.java=1606253438000
-/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-flyway/src/main/java/smoketest/flyway/SampleFlywayApplication.java=1606253438000
-/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-flyway/src/main/java/smoketest/flyway/PersonRepository.java=1606253438000
-/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-flyway/src/main/java/smoketest/flyway/Person.java=1606253438000
-configuration*?=91D8EEC2F304EFD51B95C4DE077FF9B54B2149D8

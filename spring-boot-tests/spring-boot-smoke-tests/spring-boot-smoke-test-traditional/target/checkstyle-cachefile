@@ -1,8 +1,0 @@
-#Mon Nov 30 19:06:28 CST 2020
-/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-traditional/src/main/java/smoketest/traditional/SampleTraditionalApplication.java=1606253438000
-/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-traditional/src/test/resources/log4j.properties=1606253438000
-module-resource*?\:/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-traditional/../../../src/checkstyle/nohttp-whitelist.txt=82583D1FA93B1A4BC30F5A9634DBD85CC8E22191
-module-resource*?\:file\:/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-traditional/../../../src/checkstyle/import-control.xml=CBFE1CDFE640F7A868F258C4456E08F60CBE2552
-/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-traditional/src/test/java/smoketest/traditional/SampleTraditionalApplicationTests.java=1606253438000
-/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-traditional/src/main/java/smoketest/traditional/config/WebConfig.java=1606253438000
-configuration*?=7F323201F4C321A37B4E8C0751498CF598E748E9

@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: smoketest.tomcat.multiconnector.SampleTomcatTwoConnectorsApplicationTests
--------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.232 s - in smoketest.tomcat.multiconnector.SampleTomcatTwoConnectorsApplicationTests

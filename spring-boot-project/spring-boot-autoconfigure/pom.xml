@@ -1018,7 +1018,11 @@
 			<artifactId>snakeyaml</artifactId>
 			<scope>test</scope>
 		</dependency>
-	</dependencies>
+        <dependency>
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+        </dependency>
+    </dependencies>
 	<build>
 		<plugins>
 			<plugin>

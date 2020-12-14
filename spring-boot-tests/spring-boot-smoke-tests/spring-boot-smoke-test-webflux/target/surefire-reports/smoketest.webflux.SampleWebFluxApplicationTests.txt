@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: smoketest.webflux.SampleWebFluxApplicationTests
--------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.367 s - in smoketest.webflux.SampleWebFluxApplicationTests

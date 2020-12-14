@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<checkstyle version="8.29">
-<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-reactive-oauth2-client/src/main/java/smoketest/oauth2/client/ExampleController.java">
-</file>
-<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-reactive-oauth2-client/src/main/java/smoketest/oauth2/client/SampleReactiveOAuth2ClientApplication.java">
-</file>
-<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-reactive-oauth2-client/src/test/java/smoketest/oauth2/client/SampleReactiveOAuth2ClientApplicationTests.java">
-</file>
-</checkstyle>

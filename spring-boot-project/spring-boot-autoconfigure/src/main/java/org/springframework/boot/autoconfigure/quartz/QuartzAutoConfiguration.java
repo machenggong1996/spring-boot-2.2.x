@@ -155,7 +155,11 @@ public class QuartzAutoConfiguration {
 			}
 
 			@Bean
-			@ConditionalOnBean(FlywayMigrationInitializer.class)
+			@ConditionalOnBean(
+
+
+
+					FlywayMigrationInitializer.class)
 			static SchedulerDependsOnBeanFactoryPostProcessor quartzSchedulerFlywayDependsOnBeanFactoryPostProcessor() {
 				return new SchedulerDependsOnBeanFactoryPostProcessor(FlywayMigrationInitializer.class);
 			}

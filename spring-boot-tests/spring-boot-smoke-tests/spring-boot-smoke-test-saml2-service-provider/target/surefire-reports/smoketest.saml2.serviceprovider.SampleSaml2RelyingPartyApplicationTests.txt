@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: smoketest.saml2.serviceprovider.SampleSaml2RelyingPartyApplicationTests
--------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.935 s - in smoketest.saml2.serviceprovider.SampleSaml2RelyingPartyApplicationTests

@@ -1,9 +1,0 @@
-#Mon Nov 30 19:09:31 CST 2020
-/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-integration-tests/spring-boot-launch-script-tests/src/main/java/org/springframework/boot/launchscript/LaunchVerificationController.java=1606253438000
-/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-integration-tests/spring-boot-launch-script-tests/src/test/java/org/springframework/boot/launchscript/SysVinitLaunchScriptIT.java=1606253438000
-/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-integration-tests/spring-boot-launch-script-tests/src/main/java/org/springframework/boot/launchscript/LaunchScriptTestApplication.java=1606253438000
-/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-integration-tests/spring-boot-launch-script-tests/src/test/java/org/springframework/boot/launchscript/AbstractLaunchScriptIT.java=1606253438000
-module-resource*?\:file\:/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-integration-tests/spring-boot-launch-script-tests/../../../src/checkstyle/import-control.xml=CBFE1CDFE640F7A868F258C4456E08F60CBE2552
-/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-integration-tests/spring-boot-launch-script-tests/src/test/java/org/springframework/boot/launchscript/JarLaunchScriptIT.java=1606253438000
-module-resource*?\:/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-integration-tests/spring-boot-launch-script-tests/../../../src/checkstyle/nohttp-whitelist.txt=82583D1FA93B1A4BC30F5A9634DBD85CC8E22191
-configuration*?=C3C387DACD3A1C455EEF3D6C170076046A1415E7

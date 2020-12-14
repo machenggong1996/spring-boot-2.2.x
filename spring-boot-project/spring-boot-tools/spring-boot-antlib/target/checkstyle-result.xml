@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<checkstyle version="8.29">
-<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-project/spring-boot-tools/spring-boot-antlib/src/main/java/org/springframework/boot/ant/FindMainClass.java">
-</file>
-<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-project/spring-boot-tools/spring-boot-antlib/src/main/java/org/springframework/boot/ant/ShareAntlibLoader.java">
-</file>
-<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-project/spring-boot-tools/spring-boot-antlib/src/main/java/org/springframework/boot/ant/package-info.java">
-</file>
-</checkstyle>

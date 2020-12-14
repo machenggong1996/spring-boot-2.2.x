@@ -1,9 +1,0 @@
-#Mon Nov 30 18:53:49 CST 2020
-/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-actuator-noweb/src/main/java/smoketest/actuator/noweb/ServiceProperties.java=1606253438000
-module-resource*?\:/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-actuator-noweb/../../../src/checkstyle/nohttp-whitelist.txt=82583D1FA93B1A4BC30F5A9634DBD85CC8E22191
-/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-actuator-noweb/src/main/java/smoketest/actuator/noweb/HelloWorldService.java=1606253438000
-module-resource*?\:file\:/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-actuator-noweb/../../../src/checkstyle/import-control.xml=CBFE1CDFE640F7A868F258C4456E08F60CBE2552
-/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-actuator-noweb/src/test/java/smoketest/actuator/noweb/SampleActuatorNoWebApplicationTests.java=1606253438000
-/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-actuator-noweb/src/main/java/smoketest/actuator/noweb/SampleActuatorNoWebApplication.java=1606253438000
-/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-actuator-noweb/src/main/resources/application.properties=1606253438000
-configuration*?=289F83FC0D21D1D53DAFE90EBFD51C3E2D6FF9AA

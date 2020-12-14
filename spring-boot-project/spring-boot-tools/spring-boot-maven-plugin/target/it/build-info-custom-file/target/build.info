@@ -1,5 +1,0 @@
-build.artifact=build-info-custom-file
-build.group=org.springframework.boot.maven.it
-build.name=Generate custom build info
-build.time=2020-11-30T10\:44\:09.525Z
-build.version=0.0.1.BUILD-SNAPSHOT

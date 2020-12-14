@@ -1,5 +1,0 @@
-smoketest/secure/webflux/SampleSecureWebFluxApplicationTests.class
-smoketest/secure/webflux/SampleSecureWebFluxCustomSecurityTests.class
-smoketest/secure/webflux/SampleSecureWebFluxCustomSecurityTests$SecurityConfiguration.class
-smoketest/secure/webflux/ManagementPortSampleSecureWebFluxTests.class
-smoketest/secure/webflux/ManagementPortSampleSecureWebFluxTests$SecurityConfiguration.class

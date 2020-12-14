@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: smoketest.kafka.SampleKafkaApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.302 s - in smoketest.kafka.SampleKafkaApplicationTests

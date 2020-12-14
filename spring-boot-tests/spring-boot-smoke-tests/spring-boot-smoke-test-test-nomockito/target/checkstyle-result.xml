@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<checkstyle version="8.29">
-<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test-nomockito/src/main/java/smoketest/testnomockito/SampleTestNoMockitoApplication.java">
-</file>
-<file name="/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-test-nomockito/src/test/java/smoketest/testnomockito/SampleTestNoMockitoApplicationTests.java">
-</file>
-</checkstyle>

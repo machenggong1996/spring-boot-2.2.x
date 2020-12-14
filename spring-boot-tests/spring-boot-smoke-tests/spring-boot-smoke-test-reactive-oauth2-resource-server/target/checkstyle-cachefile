@@ -1,7 +1,0 @@
-#Mon Nov 30 19:03:58 CST 2020
-/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-reactive-oauth2-resource-server/src/main/java/smoketest/oauth2/resource/SampleReactiveOAuth2ResourceServerApplication.java=1606253438000
-/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-reactive-oauth2-resource-server/src/test/java/smoketest/oauth2/resource/SampleReactiveOAuth2ResourceServerApplicationTests.java=1606253438000
-/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-reactive-oauth2-resource-server/src/main/java/smoketest/oauth2/resource/ExampleController.java=1606253438000
-module-resource*?\:file\:/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-reactive-oauth2-resource-server/../../../src/checkstyle/import-control.xml=CBFE1CDFE640F7A868F258C4456E08F60CBE2552
-module-resource*?\:/Users/shanshu/github/mygithub/spring-boot-2.2.x/spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-reactive-oauth2-resource-server/../../../src/checkstyle/nohttp-whitelist.txt=82583D1FA93B1A4BC30F5A9634DBD85CC8E22191
-configuration*?=F82E5B5566F16FAA1E51905129E96B960C209747

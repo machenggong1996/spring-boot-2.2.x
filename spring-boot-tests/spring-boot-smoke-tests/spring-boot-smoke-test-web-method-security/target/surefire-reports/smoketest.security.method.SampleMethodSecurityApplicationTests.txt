@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: smoketest.security.method.SampleMethodSecurityApplicationTests
--------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.123 s - in smoketest.security.method.SampleMethodSecurityApplicationTests

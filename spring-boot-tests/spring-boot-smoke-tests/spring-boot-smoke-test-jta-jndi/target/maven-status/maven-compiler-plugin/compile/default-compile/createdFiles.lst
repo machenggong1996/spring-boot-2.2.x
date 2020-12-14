@@ -1,7 +1,0 @@
-smoketest/jndi/WebController.class
-smoketest/jndi/Account.class
-smoketest/jndi/Messages.class
-smoketest/jndi/SampleJndiApplication.class
-smoketest/jndi/AccountService.class
-smoketest/jndi/AccountRepository.class
-smoketest/jndi/SampleJndiInitializer.class

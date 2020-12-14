@@ -1,7 +1,0 @@
-smoketest/atmosphere/SampleAtmosphereApplication$1.class
-smoketest/atmosphere/SampleAtmosphereApplication$MvcConfiguration.class
-smoketest/atmosphere/ChatService.class
-smoketest/atmosphere/Message.class
-smoketest/atmosphere/ChatService$JacksonEncoderDecoder.class
-smoketest/atmosphere/SampleAtmosphereApplication$EmbeddedAtmosphereInitializer.class
-smoketest/atmosphere/SampleAtmosphereApplication.class

@@ -1,5 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Nov 30 18:46:39 CST 2020
-jar-classifier-source-attach-disabled-0.0.1.BUILD-SNAPSHOT.pom>=
-jar-classifier-source-attach-disabled-0.0.1.BUILD-SNAPSHOT.jar>=
-jar-classifier-source-attach-disabled-0.0.1.BUILD-SNAPSHOT-test.jar>=
