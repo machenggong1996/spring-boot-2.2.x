@@ -88,6 +88,7 @@ public class TransactionAutoConfiguration {
 
 		@Configuration(proxyBeanMethods = false)
 		@EnableTransactionManagement(proxyTargetClass = false)
+		//proxyTargetClass = false表示是JDK动态代理支持接口代理。true表示是Cglib代理支持子类继承代理
 		@ConditionalOnProperty(prefix = "spring.aop", name = "proxy-target-class", havingValue = "false",
 				matchIfMissing = false)
 		public static class JdkDynamicAutoProxyConfiguration {
